@@ -26615,7 +26615,7 @@
 	    React.createElement(
 	      'h3',
 	      null,
-	      'Example Component!'
+	      'Examples'
 	    ),
 	    React.createElement(
 	      'h4',
